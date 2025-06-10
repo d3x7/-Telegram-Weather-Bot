@@ -29,7 +29,7 @@
 
 1. **Скачать репозиторий**
    ```
-   git clone 
+   git clone https://github.com/d3x7/-Telegram-Weather-Bot.git
    cd telegram-weather-bot
    ```
 
